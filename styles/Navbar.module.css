@@ -1,0 +1,13 @@
+.header {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100px;
+    display: block;
+    justify-content: center;
+}
+.navbar {
+    width: 100%;
+    height: 100%;
+    background: lightblue !important;
+}
